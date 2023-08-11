@@ -89,7 +89,6 @@ def app(url):
         }
         .stApp > header {
             background: transparent;
-            pointer-events: none;
         }
     </style>""",
         unsafe_allow_html=True,
