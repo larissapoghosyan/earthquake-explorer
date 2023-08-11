@@ -1,0 +1,9 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+tqdm
+plotly
+cached_path
+reverse_geocode
