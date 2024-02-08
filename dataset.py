@@ -66,7 +66,7 @@ class DataSet:
             timestamp = dat["properties"]["time"]
             lon, lat, depth = dat["geometry"]["coordinates"]
 
-            if mgnt >= 0:
+            if mgnt is not None and mgnt >= 0:
                 self.processed_data["lons"].append(lon)
                 self.processed_data["lats"].append(lat)
                 self.processed_data["depth_km"].append(depth)
