@@ -6,7 +6,7 @@ comprehensive visualizations of global earthquake activities. Through the use
 of GeoJSON data, the tool highlights seismic events on a dynamic world map,
 classifies earthquakes by magnitude, and identifies the most active seismic zones.
 
-<img src="https://github.com/larissapoghosyan/earthquake-explorer/assets/43134338/082f70cd-f195-4245-ba29-f6633cdbe1cd">
+<img src="https://github.com/larissapoghosyan/earthquake-explorer/assets/43134338/082f70cd-f195-4245-ba29-f6633cdbe1cd" width="540" height="370">
 
 
 ## Features
@@ -16,8 +16,8 @@ classifies earthquakes by magnitude, and identifies the most active seismic zone
 - **Seismic Data Analysis**: Earthquake Explorer features an analysis module to identify the strongest earthquakes and the most seismic zones.
 - **Flexible Time Range Selection**: Users can set a specific time range for viewing earthquake data, which can range from an hour to an entire month.
 
-<img src="https://github.com/larissapoghosyan/earthquake-explorer/assets/43134338/dbb70881-aad3-4d72-b2b5-bedc95465def">
-<img src="https://github.com/larissapoghosyan/earthquake-explorer/assets/43134338/2d9ca2a4-d754-4b61-8058-36fead41e8f1">
+<img src="https://github.com/larissapoghosyan/earthquake-explorer/assets/43134338/dbb70881-aad3-4d72-b2b5-bedc95465def" width="540" height="370">
+<img src="https://github.com/larissapoghosyan/earthquake-explorer/assets/43134338/2d9ca2a4-d754-4b61-8058-36fead41e8f1" width="540" height="370">
 
 
 ## Installation
